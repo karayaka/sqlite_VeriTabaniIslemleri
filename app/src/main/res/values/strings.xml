@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Sqlite_Deneme</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Ayarlar</string>
+    <string name="tbtnekle">Ekle</string>
+    <string name="tbtntarih">Tarih</string>
+    <string name="tbtndersEkle">Ders Ekle</string>
+    <string name="tbtnpaylas">Paylaş</string>
+    <string name="tbtnhakkinda">Hakkında</string>
+    <string name="hakinda_Metin">Araştırmayı ve öğrenmeyi seven, kişisel gelişime önem veren,
+        interaktif  düşünebilen, yönetim alanında yetenekli, ve enformasyon teknolojilerinde
+        bilgili, sürekliliği ve kaynak tasarrufunun önemini kavrayabilmiş, gerektiği yerde grup
+        halinde gerektiği yerde bireysel çalışabilen, sosyal ilişkiler konusunda iyi, insanları
+        kolay analiz edebilen, iletişim ve hitabet yeteneği kuvvetli, grup motivasyonuna olumlu
+        katkılarda bulunabilen, sorunun değil çözümün bir parçası olmayı yaşamın bir parçası sayan
+        karaktere sahibim.Karakterimin negatif yanları takıntılı düzeyde başladığım işi bitirme,
+        kolay öfkelenme ve insanlara kolay güvenememe.
+Kariyer planım ise toplam kalite ve kalite yönetim alanında etkim bir çalışma alanı bula bilmek
+        ve bu alanda kendimi geliştire bilmek yönetim ve proje yönetimi alanlarında çalışabilmek.
+Son iki yıldır yazılım alanında kendimi geliştirmekteyim java python javascript gibi diller üzerine
+        çalışmaktayım ve kariyerimi bu alanda yapmayı istiyorum  </string>
+    <string name="mail">cagri.karayaka@gmail.com</string>
+    <string name="dersEkle">DERS EKLE</string>
+    <string name="btniptal">İPTAL</string>
+    <string name="btnkaydet">KAYDET</string>
+    <string name="sorusayısıgirin">SORU SAYISI GİRİNİZ</string>
+    <string name="kayithata">KAYIT SIRASINDA BİR HATA OLUŞTU</string>
+    <string name="kayitbasarili">KAYIT İŞLEMİ BAŞARILI</string>
+    <string name="dersAdi">DERS ADI</string>
+    <string name="hedefsoru">HADEF SORU SAYISI</string>
+    <string name="kayityok">Kayıt Bulunamadı</string>
+    <string name="dersliste">Ders Listesi</string>
+    <string name="menu_sil">Sil</string>
+    <string name="btnduzenle">Düzenle</string>
+
+</resources>
